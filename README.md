@@ -1,17 +1,11 @@
 # SFML-Snake
-Victor Samuel
-
-Intro to 3D Game Design
-
-October 30, 2020
-
-SFML Snake
 
 This game was developed using SFML in C++. It has a basic game engine that controls the snake and has tools for managing background and timing, boundary detection and collisions, and of course sprites. The following was used to develop and play the game.
 
 **Visual Studio Professional 2019:**
 
-- Downloaded this software from the IU Azure Portal using my IU Credentials, website below: [https://portal.azure.com/#blade/Microsoft\_Azure\_Education/EducationMenuBlade/software](https://portal.azure.com/#blade/Microsoft_Azure_Education/EducationMenuBlade/software)
+- Softwae can be downloaded from Microsoft are the following link:  [https://visualstudio.microsoft.com/vs/](https://visualstudio.microsoft.com/vs/)
+- Note that this is licensed software and if the "Community" version is not selected, Microsoft will require payment for the licensing of the product
 
 **SFML 2.5.1:**
 
@@ -28,7 +22,7 @@ After downloading the SFML 2.5.1 folder you will need to extract it and follow t
 6. Add the directory where the SFML/include files are in the root of your main drive
   1. For example, &quot;C:\SFML\include&quot; (Figure 1.1 below)
 
-![](RackMultipart20210420-4-ttjcbg_html_172334040ed0c6ba.png)
+![Alt text](Figure1.png "a title")
 
 Figure 1
 

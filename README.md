@@ -44,7 +44,7 @@ After downloading the SFML 2.5.1 folder you will need to extract it and follow t
 </p>
 
 1. Add the dependencies listed below to the front of the list
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-sfml-graphics-d; sfml-window-d.lib; sfml-system-d.lib; sfml-network-d.lib; sfml-audio-d.lib;
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- sfml-graphics-d; sfml-window-d.lib; sfml-system-d.lib; sfml-network-d.lib; sfml-audio-d.lib;
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Make sure not to delete any of the dependencies that were there before
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Click OK and complete this section of the set up</br>
 2. Next copy all the .dll files from the C:\SFML\bin folder into your project directory with your main file.

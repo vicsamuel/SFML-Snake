@@ -22,7 +22,7 @@ After downloading the SFML 2.5.1 folder you will need to extract it and follow t
 6. Add the directory where the SFML/include files are in the root of your main drive
   1. For example, &quot;C:\SFML\include&quot; (Figure 1.1 below)
 
-![Alt text](Figure1.png "a title")
+![Figure 1](/images/Figure1.png "Figure 1")
 
 Figure 1
 
@@ -30,13 +30,13 @@ Figure 1
 2. Locate Additional Library Directories and then similarly to step 6, add the path to the lib directory within the SFML folder on your root drive
   1. For example, &quot;C:\SFML\lib&quot; (Figure 1.2 below)
 
-![](RackMultipart20210420-4-ttjcbg_html_1ad44b24df41922d.png)
+![Figure 2](/images/Figure2.png "Figure 2")
 
 Figure 3
 
 1. Switch the option for configuration to &quot;Debug&quot; as shown below and go back to the Linker-\&gt;Input option, click the drop-down menu for additional dependencies and click edit. (Figure 3 Below)
 
-![](RackMultipart20210420-4-ttjcbg_html_b020da8fe1bc036b.png)
+![Figure 3](/images/Figure3.png "Figure 3")
 
 Figure 3
 
@@ -46,7 +46,7 @@ Figure 3
   3. Click OK and complete this section of the set up
 2. Next copy all the .dll files from the C:\SFML\bin folder into your project directory with your main file.
 
-![](RackMultipart20210420-4-ttjcbg_html_f2f8834e4c6d223b.png)
+![Figure 4](/images/Figure4.png "Figure 4")
 
 Figure 4
 

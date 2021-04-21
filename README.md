@@ -1,4 +1,4 @@
-# SFML-Snake
+<h1 align="center">SFML Snake</h1>
 
 This game was developed using SFML in C++. It has a basic game engine that controls the snake and has tools for managing background and timing, boundary detection and collisions, and of course sprites. The following was used to develop and play the game.
 
